@@ -6,7 +6,7 @@
   "dependencies": {
     "@actions/core": "^1.9.1",
     "dotenv": "^16.4.5",
-    "google-auth-library": "^9.7.0",
+    "google-auth-library": "^9.9.0",
     "googleapis": "^134.0.0"
   },
   "scripts": {
